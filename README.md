@@ -5,6 +5,7 @@ The Diabetes Prediction project involves analysis of data set related to diabete
 1 - Gain understanding on dataset.<br>
 2 - Analyze Pattern including Glucose, Blood Pressure, Insulin, Body Mass Index [BMI], Age etc. with respect to Outcome.<br>
 3 - Visualize the findings for easy understanding. <br>
+4 - Model Building for Prediction <br>
 
 # Methodology:
 1 - Data Cleaning <br>
